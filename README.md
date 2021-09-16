@@ -21,6 +21,13 @@ Being compiled down into C# IL, this means that I can implement native scripting
 Yes, my projects are named after techniques from characters in OnePiece. I love this show and I'm bad at finding names for my projects so that's what I ended up with. 
 
 
+# Contacts
+
+Platform        | address/name
+--------------- | ------------------------------
+Instagram       | nils_ds
+Mail            | herrnielsson.nd@gmail.com
+university mail | nils.drees@stud.hs-bochum.de
 
 <!---
 MugirawaLuffy/MugirawaLuffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
