@@ -24,8 +24,8 @@ Yes, my projects are named after techniques from characters in OnePiece. I love 
 # Contacts
 
 Platform        | address/name
---------------- | ------------------------------
-Instagram       | nils_ds
+--------------- | -----------------------------------
+Instagram       | https://www.instagram.com/nils_ds/
 Mail            | herrnielsson.nd@gmail.com
 university mail | nils.drees@stud.hs-bochum.de
 
