@@ -7,6 +7,7 @@
 - 📫 How to reach me @nils_ds on Instagram
 
 # Projects I currently work on
+There are a lot of projects I work on privatly, and you can have a look on your own, go through the READMEs or look at the source code. Here I just quickly want to show-off my dearest projects that get most attention by me.
 
 ## Gear5th
 
