@@ -1,11 +1,11 @@
 # About Me
 
-- 👋 Hi, I’m @MugirawaLuffy
-- 👀 I’m interested in windsurfing, gaming and programming
-- 🌱 I’m currently student at Bochum's university of applied science
+👋 Hi, I’m @MugirawaLuffy, student at Bochum university of applied science
 
-- 📫 How to reach me @nils_ds on Instagram
 
+<details>
+  <summary>Shit you probably don't care about (click to expand) </summary>
+  
 # Projects I currently work on
 There are a lot of projects I work on privatly, and you can have a look on your own, go through the READMEs or look at the source code. Here I just quickly want to show-off my dearest projects that get most attention by me.
 
@@ -20,8 +20,9 @@ Being compiled down into C# IL, this means that I can implement native scripting
 
 # One Piece
 Yes, my projects are named after techniques from characters in OnePiece. I love this show and I'm bad at finding names for my projects so that's what I ended up with. 
+</details>
 
-
+<br /><br /><br />
 # Contacts
 
 Platform        | address/name
