@@ -23,7 +23,7 @@
 
 - 👋 Hi, I’m @MugirawaLuffy, student at Bochum university of applied science
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: The first person ever convicted of speeding was going eight mph.
+- ⚡ Fun fact: The first person ever convicted of speeding was going 12km/h (8mph).
 - :unamused: If you like Orange juice with pulp in it I don't want anything to do with you, honestly
 
 
