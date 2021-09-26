@@ -1,13 +1,30 @@
-### Hi there, I'm Nils - aka MugirawaLuffy 👋
+  
+# Hello there, I'm Nils - aka MugirawaLuffy 👋
 
+<p align="left">
+
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMugirawaLuffy&screen_name=MugirawaLuffy">
+        <img src="https://img.shields.io/twitter/follow/nd_drees?color=1DA1F2&logo=twitter&style=for-the-badge"
+            alt="Follow on Twitter">
+    </a>
+    <a href="https://discord.gg/wMavHHADvT">
+        <img src="https://img.shields.io/discord/782987203298197516.svg?style=for-the-badge"
+            alt="Discord">
+    </a>
+  
+<!--  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nd_drees?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMugirawaLuffy&screen_name=MugirawaLuffy)
+
+[![Join Discord](https://img.shields.io/discord/782987203298197516.svg?style=for-the-badge)](https://discord.gg/wMavHHADvT)
+-->
+ </p>
 
 # About Me
 
 - 👋 Hi, I’m @MugirawaLuffy, student at Bochum university of applied science
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: The first person ever convicted of speeding was going eight mph.
-- If you like Orange juice with pulp in it I don't want anything to do with you
+- :unamused: If you like Orange juice with pulp in it I don't want anything to do with you, honestly
 
 
 ### Contact me here
@@ -40,6 +57,12 @@
 [<img align="left" alt="C++" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />][office]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+[<img align="left" alt="OpenGL" width="50px" src="https://www.geeks3d.com/glz/i/OpenGL_White_170px_June16.png" />][Cpp]
+[<img align="left" alt="Vulcan" width="70px" src="https://www.geeks3d.com/glz/i/Vulkan_White_170px_Dec16.png" />][Cpp]
+
+[<img align="left" alt="DirectX" width="26px" src="https://i0.wp.com/softonline.net/wp-content/uploads/2020/09/DirectX-11.jpg" />][D3D]
+
 <br/>
 
 ---
@@ -77,6 +100,7 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://instagram.com/nils_ds
 [discord]: https://discord.gg/wMavHHADvT
 
+[D3D]: https://github.com/MugirawaLuffy/D3d-Engine
 [Cpp]: https://github.com/MugirawaLuffy/Gear5th
 [C]: https://github.com/MugirawaLuffy/Gear5th
 [Csharp]: https://github.com/MugirawaLuffy/Santuryu
