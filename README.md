@@ -10,6 +10,7 @@
     <a href="https://discord.gg/wMavHHADvT">
         <img src="https://img.shields.io/discord/782987203298197516.svg?style=for-the-badge"
             alt="Discord">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/MugirawaLuffy?style=for-the-badge">
     </a>
   
 <!--  
