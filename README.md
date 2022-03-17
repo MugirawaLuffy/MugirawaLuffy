@@ -22,7 +22,8 @@
 
 # About Me
 
-- 👋 Hi, I’m @MugirawaLuffy, student at Bochum university of applied science
+- 👋 Hi, I’m @MugirawaLuffy
+- I study information theory at Bochum university of applied sciences
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: The first person ever convicted of speeding was going 12km/h (8mph).
 - :unamused: If you like Orange juice with pulp in it I don't want anything to do with you, honestly
