@@ -1,117 +1,58 @@
-  
-# Hello there, I'm Nils - aka MugirawaLuffy 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hallo ich bin Nils</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MugirawaLuffy&label=Profile%20views&color=0e75b6&style=flat" alt="MugirawaLuffy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MugirawaLuffy&theme=" alt="MugirawaLuffy" /></a> </p>
+
+- Im Moment arbeite ich an [Advent of code 2023](https://github.com/MugirawaLuffy/advent-of-code-2023)
+- 🌱 Im moment lerne ich **Mobile dev (SwiftUi und Jetpack), Angular und OCaml**
+- 💬 Ask me about **Java, C, Angular**
+- 📫 How to reach me **nils.drees@stud.hs-bochum.de**
+
+<div> <a href="https://github.com/MugirawaLuffy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:nils.drees@stud.hs-bochum.de"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/swift-original.svg" alt="Swift" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMugirawaLuffy&screen_name=MugirawaLuffy">
-        <img src="https://img.shields.io/twitter/follow/nd_drees?color=1DA1F2&logo=twitter&style=for-the-badge"
-            alt="Follow on Twitter">
-    </a>
-    <a href="https://discord.gg/wMavHHADvT">
-        <img src="https://img.shields.io/discord/782987203298197516.svg?style=for-the-badge"
-            alt="Discord">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/MugirawaLuffy?style=for-the-badge">
-    </a>
-  
-<!--  
-[![Twitter Follow](https://img.shields.io/twitter/follow/nd_drees?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMugirawaLuffy&screen_name=MugirawaLuffy)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MugirawaLuffy&layout=compact&theme=" alt=MugirawaLuffy />
 
-[![Join Discord](https://img.shields.io/discord/782987203298197516.svg?style=for-the-badge)](https://discord.gg/wMavHHADvT)
--->
- </p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MugirawaLuffy&show_icons=true&locale=en&theme=" alt="MugirawaLuffy" /></p>
 
-# About Me
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MugirawaLuffy&theme=" alt="MugirawaLuffy" /></p>
 
-- 👋 Hi, I’m @MugirawaLuffy
-- I study information theory at Bochum university of applied sciences
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: The first person ever convicted of speeding was going 12km/h (8mph).
-- :unamused: If you like Orange juice with pulp in it I don't want anything to do with you, honestly
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/MugirawaLuffy">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MugirawaLuffy&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MugirawaLuffy&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MugirawaLuffy&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MugirawaLuffy&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MugirawaLuffy&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MugirawaLuffy&theme=default"/>
 
-
-### Contact me here
-
-[<img align="left" alt="MugirawaLuffy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MugirawaLuffy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MugirawaLuffy | reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="MugirawaLuffy | skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
-[<img align="left" alt="MugirawaLuffy | teams" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018–present%29.svg" />][teams]
-
-<br/><br/>
-
-<details>
-  <summary> Or Email me! (click to expand) </summary>
-
-  Account         | address/name
-  --------------- | -----------------------------------
-  Mail (personal) | herrnielsson.nd@gmail.com
-  university mail | nils.drees@stud.hs-bochum.de
- </details>
-  
----
-
-### languages and tools:
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />][Cpp]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][C]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][Csharp]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][python]
-[<img align="left" alt="C++" width="26px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" />][office]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
-[<img align="left" alt="OpenGL" width="50px" src="https://www.geeks3d.com/glz/i/OpenGL_White_170px_June16.png" />][Cpp]
-[<img align="left" alt="Vulcan" width="70px" src="https://www.geeks3d.com/glz/i/Vulkan_White_170px_Dec16.png" />][Cpp]
-
-[<img align="left" alt="DirectX" width="26px" src="https://i0.wp.com/softonline.net/wp-content/uploads/2020/09/DirectX-11.jpg" />][D3D]
-
-<br/>
-
----
-
-<details>
-  <summary>Shit you probably don't care about (click to expand) </summary>
-  
-# Projects I currently work on
-There are a lot of projects I work on privatly, and you can have a look on your own, go through the READMEs or look at the source code. Here I just quickly want to show-off my dearest projects that get most attention by me.
-
-### Gear5th
-
-A small "Game engine" like project, which's 3d rendering an scripting capabilities I will use in order to quickly build impressive graphical applications for university projects and stuff alike. The ground concept is derived by the Cherrno's Game engine series but a lot of functionality (Graphing, scripting with my own programming language Santuryu and more) makes Gear5th unlike any other different Game Engine
-
-### Santuryu
-
-Santuryu itself is a Compiler used to compile .ryu files down into C# IL (Intermediate language). For more specifics on the language read the README.md on the Santuryu page.
-Being compiled down into C# IL, this means that I can implement native scripting C# into Gear5th Game Engine, and automatically be able to use RYU code to write scripts in Gear5th with little effort. That also is the main goal for Santuryu and it's main purpose, but Santuryus language is easy to use and learn and getting more effective the more inbuilt functions I add, which makes it a "good" language to use in general purposes
-
-### Vulkan Test
-Just a Vulkan playground to learn the api, in order to implement it in Gear5th without too many problems later.
-  
-# One Piece
-Yes, my projects are named after techniques from characters in OnePiece. I love this show and I'm bad at finding names for my projects so that's what I ended up with. 
-</details>
-
----
-
-<img align="left" alt="MugirawaLuffy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MugirawaLuffy&show_icons=true&hide_border=true" />
-
-
-<!---
-MugirawaLuffy/MugirawaLuffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[twitter]: https://twitter.com/nd_drees
-[instagram]: https://instagram.com/nils_ds
-[discord]: https://discord.gg/wMavHHADvT
-
-[D3D]: https://github.com/MugirawaLuffy/D3d-Engine
-[Cpp]: https://github.com/MugirawaLuffy/Gear5th
-[C]: https://github.com/MugirawaLuffy/Gear5th
-[Csharp]: https://github.com/MugirawaLuffy/Santuryu
-[java]: https://docs.oracle.com/en/java/
-[python]: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poop-emoji-pillow-funny-concept-fluffy-plush-toy-royalty-free-image-1597683286.jpg
-[vscode]: https://code.visualstudio.com
-[office]: https://www.microsoft.com/de-de/microsoft-365/microsoft-office
-[skype]: https://join.skype.com/invite/fCHcXIz2XxVM
-[teams]: https://teams.microsoft.com/l/chat/0.0/?users=nils.drees@stud.hs-bochum.de
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
